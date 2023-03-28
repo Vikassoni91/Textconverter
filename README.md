@@ -1,7 +1,8 @@
 ## Here is the deployed website link
 https://vikassoni91.github.io/Textconverter/
 
-![image](https://user-images.githubusercontent.com/90946288/228133905-3a607a20-8e27-478f-89d4-73b6615fa336.png)
+![image](https://user-images.githubusercontent.com/90946288/228134009-30b60ab4-f8e3-4591-aeb3-9d7e3eb4ffbc.png)
+
 
 
 # Getting Started with Create React App
