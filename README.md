@@ -1,5 +1,5 @@
 ## Here is the deployed website link
-(https://vikassoni91.github.io/Textconverter/)
+https://vikassoni91.github.io/Textconverter/
 
 # Getting Started with Create React App
 
